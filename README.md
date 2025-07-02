@@ -1,5 +1,5 @@
 > [!WARNING]
-> This is merely for entertainment purposes and has no relevance whatsoever to real life lottery systems.
+> This is merely for entertainment purposes and has no relevance whatsoever to real life lottery systems. The use of state lottery symbols is a feature to add detail to the ticket itself.
 ---
 ![Title](https://github.com/user-attachments/assets/b2488948-07da-4e12-9a54-5869e8d6570d)
 
