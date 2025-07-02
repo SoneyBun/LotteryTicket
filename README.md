@@ -10,4 +10,6 @@ For entertainment purposes I made a simple fake lottery ticket generator using J
 ![Embed](https://github.com/user-attachments/assets/00d79a4f-2174-4aec-9790-6b471408528a)
 
 ---
-Text Here
+To embed this one a website, you can utilize the [HTML Embed]([url](https://github.com/SoneyBun/LotteryTicket/blob/034ef171cf8370001f0b4cd644e9bce96fff309b/Embed.html)). The application was programmed on [CodeHS](https://codehs.com/) using [Java Swing](https://codehs.com/tutorial/david/basic-java-swing-layouts) therefore it is a CodeHS embed.
+
+---
